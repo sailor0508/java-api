@@ -1,4 +1,4 @@
-package com.example.ruzhi.javaapi;
+package com.example.ruzhi.jdkapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

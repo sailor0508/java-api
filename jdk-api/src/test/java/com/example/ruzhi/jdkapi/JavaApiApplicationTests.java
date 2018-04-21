@@ -1,4 +1,4 @@
-package com.example.ruzhi.javaapi;
+package com.example.ruzhi.jdkapi;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
